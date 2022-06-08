@@ -1,0 +1,10 @@
+C:\Users\Vusi Mosime\source\repos\BudgetReportApp\BudgetApp\SqlDataAcess\bin\Debug\netcoreapp3.1\DataAcess.deps.json
+C:\Users\Vusi Mosime\source\repos\BudgetReportApp\BudgetApp\SqlDataAcess\bin\Debug\netcoreapp3.1\DataAcess.dll
+C:\Users\Vusi Mosime\source\repos\BudgetReportApp\BudgetApp\SqlDataAcess\bin\Debug\netcoreapp3.1\DataAcess.pdb
+C:\Users\Vusi Mosime\source\repos\BudgetReportApp\BudgetApp\SqlDataAcess\obj\Debug\netcoreapp3.1\DataAcess.csproj.AssemblyReference.cache
+C:\Users\Vusi Mosime\source\repos\BudgetReportApp\BudgetApp\SqlDataAcess\obj\Debug\netcoreapp3.1\DataAcess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vusi Mosime\source\repos\BudgetReportApp\BudgetApp\SqlDataAcess\obj\Debug\netcoreapp3.1\DataAcess.AssemblyInfoInputs.cache
+C:\Users\Vusi Mosime\source\repos\BudgetReportApp\BudgetApp\SqlDataAcess\obj\Debug\netcoreapp3.1\DataAcess.AssemblyInfo.cs
+C:\Users\Vusi Mosime\source\repos\BudgetReportApp\BudgetApp\SqlDataAcess\obj\Debug\netcoreapp3.1\DataAcess.csproj.CoreCompileInputs.cache
+C:\Users\Vusi Mosime\source\repos\BudgetReportApp\BudgetApp\SqlDataAcess\obj\Debug\netcoreapp3.1\DataAcess.dll
+C:\Users\Vusi Mosime\source\repos\BudgetReportApp\BudgetApp\SqlDataAcess\obj\Debug\netcoreapp3.1\DataAcess.pdb

@@ -1,0 +1,81 @@
+C:\Users\Vusi Mosime\source\repos\BudgetReportApp\BudgetApp\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.exe
+C:\Users\Vusi Mosime\source\repos\BudgetReportApp\BudgetApp\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.deps.json
+C:\Users\Vusi Mosime\source\repos\BudgetReportApp\BudgetApp\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Vusi Mosime\source\repos\BudgetReportApp\BudgetApp\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\Vusi Mosime\source\repos\BudgetReportApp\BudgetApp\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\Vusi Mosime\source\repos\BudgetReportApp\BudgetApp\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\Vusi Mosime\source\repos\BudgetReportApp\BudgetApp\WinFormsApp1\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Vusi Mosime\source\repos\BudgetReportApp\BudgetApp\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Vusi Mosime\source\repos\BudgetReportApp\BudgetApp\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Vusi Mosime\source\repos\BudgetReportApp\BudgetApp\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Vusi Mosime\source\repos\BudgetReportApp\BudgetApp\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Vusi Mosime\source\repos\BudgetReportApp\BudgetApp\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Vusi Mosime\source\repos\BudgetReportApp\BudgetApp\WinFormsApp1\bin\Debug\net5.0-windows\SqlDataAccess.dll
+C:\Users\Vusi Mosime\source\repos\BudgetReportApp\BudgetApp\WinFormsApp1\bin\Debug\net5.0-windows\SqlDataAccess.pdb
+C:\Users\Vusi Mosime\source\repos\BudgetReportApp\BudgetApp\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Vusi Mosime\source\repos\BudgetReportApp\BudgetApp\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form1.resources
+C:\Users\Vusi Mosime\source\repos\BudgetReportApp\BudgetApp\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Vusi Mosime\source\repos\BudgetReportApp\BudgetApp\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vusi Mosime\source\repos\BudgetReportApp\BudgetApp\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Vusi Mosime\source\repos\BudgetReportApp\BudgetApp\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Vusi Mosime\source\repos\BudgetReportApp\BudgetApp\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Vusi Mosime\source\repos\BudgetReportApp\BudgetApp\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\Vusi Mosime\source\repos\BudgetReportApp\BudgetApp\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\Vusi Mosime\source\repos\BudgetReportApp\BudgetApp\WinFormsApp1\obj\Debug\net5.0-windows\refint\WinFormsApp1.dll
+C:\Users\Vusi Mosime\source\repos\BudgetReportApp\BudgetApp\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\Vusi Mosime\source\repos\BudgetReportApp\BudgetApp\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Vusi Mosime\source\repos\BudgetReportApp\BudgetApp\WinFormsApp1\obj\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\vusim\source\repos\BudgetApp\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\vusim\source\repos\BudgetApp\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AppForm.resources
+C:\Users\vusim\source\repos\BudgetApp\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\vusim\source\repos\BudgetApp\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vusim\source\repos\BudgetApp\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\vusim\source\repos\BudgetApp\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\vusim\source\repos\BudgetApp\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\vusim\source\repos\BudgetApp\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.exe
+C:\Users\vusim\source\repos\BudgetApp\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.deps.json
+C:\Users\vusim\source\repos\BudgetApp\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\vusim\source\repos\BudgetApp\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\vusim\source\repos\BudgetApp\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\vusim\source\repos\BudgetApp\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\vusim\source\repos\BudgetApp\WinFormsApp1\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\vusim\source\repos\BudgetApp\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\vusim\source\repos\BudgetApp\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\vusim\source\repos\BudgetApp\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\vusim\source\repos\BudgetApp\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vusim\source\repos\BudgetApp\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vusim\source\repos\BudgetApp\WinFormsApp1\bin\Debug\net5.0-windows\SqlDataAccess.dll
+C:\Users\vusim\source\repos\BudgetApp\WinFormsApp1\bin\Debug\net5.0-windows\SqlDataAccess.pdb
+C:\Users\vusim\source\repos\BudgetApp\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\vusim\source\repos\BudgetApp\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\vusim\source\repos\BudgetApp\WinFormsApp1\obj\Debug\net5.0-windows\refint\WinFormsApp1.dll
+C:\Users\vusim\source\repos\BudgetApp\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\vusim\source\repos\BudgetApp\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\vusim\source\repos\BudgetApp\WinFormsApp1\obj\Debug\net5.0-windows\ref\WinFormsApp1.dll
+E:\BudgetApp\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.exe
+E:\BudgetApp\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.deps.json
+E:\BudgetApp\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.json
+E:\BudgetApp\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.dev.json
+E:\BudgetApp\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.dll
+E:\BudgetApp\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.pdb
+E:\BudgetApp\WinFormsApp1\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+E:\BudgetApp\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+E:\BudgetApp\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+E:\BudgetApp\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+E:\BudgetApp\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\BudgetApp\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\BudgetApp\WinFormsApp1\bin\Debug\net5.0-windows\SqlDataAccess.dll
+E:\BudgetApp\WinFormsApp1\bin\Debug\net5.0-windows\SqlDataAccess.pdb
+E:\BudgetApp\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+E:\BudgetApp\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AppForm.resources
+E:\BudgetApp\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+E:\BudgetApp\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\BudgetApp\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+E:\BudgetApp\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfo.cs
+E:\BudgetApp\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+E:\BudgetApp\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CopyComplete
+E:\BudgetApp\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.dll
+E:\BudgetApp\WinFormsApp1\obj\Debug\net5.0-windows\refint\WinFormsApp1.dll
+E:\BudgetApp\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.pdb
+E:\BudgetApp\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.genruntimeconfig.cache
+E:\BudgetApp\WinFormsApp1\obj\Debug\net5.0-windows\ref\WinFormsApp1.dll

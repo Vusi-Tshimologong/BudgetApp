@@ -1,0 +1,8 @@
+C:\Users\Vusi Mosime\source\repos\BudgetReportApp\BudgetApp\BudgetAppForms\bin\Debug\BudgetAppForms.exe
+C:\Users\Vusi Mosime\source\repos\BudgetReportApp\BudgetApp\BudgetAppForms\bin\Debug\BudgetAppForms.pdb
+C:\Users\Vusi Mosime\source\repos\BudgetReportApp\BudgetApp\BudgetAppForms\obj\Debug\BudgetAppForms.csproj.AssemblyReference.cache
+C:\Users\Vusi Mosime\source\repos\BudgetReportApp\BudgetApp\BudgetAppForms\obj\Debug\BudgetAppForms.Properties.Resources.resources
+C:\Users\Vusi Mosime\source\repos\BudgetReportApp\BudgetApp\BudgetAppForms\obj\Debug\BudgetAppForms.csproj.GenerateResource.cache
+C:\Users\Vusi Mosime\source\repos\BudgetReportApp\BudgetApp\BudgetAppForms\obj\Debug\BudgetAppForms.csproj.CoreCompileInputs.cache
+C:\Users\Vusi Mosime\source\repos\BudgetReportApp\BudgetApp\BudgetAppForms\obj\Debug\BudgetAppForms.exe
+C:\Users\Vusi Mosime\source\repos\BudgetReportApp\BudgetApp\BudgetAppForms\obj\Debug\BudgetAppForms.pdb

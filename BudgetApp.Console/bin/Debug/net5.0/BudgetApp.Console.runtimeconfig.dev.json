@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Vusi Mosime\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Vusi Mosime\\.nuget\\packages"
+    ]
+  }
+}

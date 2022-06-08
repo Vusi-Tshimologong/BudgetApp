@@ -1,0 +1,76 @@
+C:\Users\Vusi Mosime\source\repos\BudgetReportApp\BudgetApp\BudgetApp.Console\bin\Debug\net5.0\BudgetApp.Console.exe
+C:\Users\Vusi Mosime\source\repos\BudgetReportApp\BudgetApp\BudgetApp.Console\bin\Debug\net5.0\BudgetApp.Console.deps.json
+C:\Users\Vusi Mosime\source\repos\BudgetReportApp\BudgetApp\BudgetApp.Console\bin\Debug\net5.0\BudgetApp.Console.runtimeconfig.json
+C:\Users\Vusi Mosime\source\repos\BudgetReportApp\BudgetApp\BudgetApp.Console\bin\Debug\net5.0\BudgetApp.Console.runtimeconfig.dev.json
+C:\Users\Vusi Mosime\source\repos\BudgetReportApp\BudgetApp\BudgetApp.Console\bin\Debug\net5.0\BudgetApp.Console.dll
+C:\Users\Vusi Mosime\source\repos\BudgetReportApp\BudgetApp\BudgetApp.Console\bin\Debug\net5.0\BudgetApp.Console.pdb
+C:\Users\Vusi Mosime\source\repos\BudgetReportApp\BudgetApp\BudgetApp.Console\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Vusi Mosime\source\repos\BudgetReportApp\BudgetApp\BudgetApp.Console\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Vusi Mosime\source\repos\BudgetReportApp\BudgetApp\BudgetApp.Console\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Vusi Mosime\source\repos\BudgetReportApp\BudgetApp\BudgetApp.Console\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Vusi Mosime\source\repos\BudgetReportApp\BudgetApp\BudgetApp.Console\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Vusi Mosime\source\repos\BudgetReportApp\BudgetApp\BudgetApp.Console\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Vusi Mosime\source\repos\BudgetReportApp\BudgetApp\BudgetApp.Console\bin\Debug\net5.0\BudgetFormsApp1.exe
+C:\Users\Vusi Mosime\source\repos\BudgetReportApp\BudgetApp\BudgetApp.Console\bin\Debug\net5.0\BudgetFormsApp1.pdb
+C:\Users\Vusi Mosime\source\repos\BudgetReportApp\BudgetApp\BudgetApp.Console\bin\Debug\net5.0\BudgetFormsApp1.exe.config
+C:\Users\Vusi Mosime\source\repos\BudgetReportApp\BudgetApp\BudgetApp.Console\obj\Debug\net5.0\BudgetApp.Console.csproj.AssemblyReference.cache
+C:\Users\Vusi Mosime\source\repos\BudgetReportApp\BudgetApp\BudgetApp.Console\obj\Debug\net5.0\BudgetApp.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vusi Mosime\source\repos\BudgetReportApp\BudgetApp\BudgetApp.Console\obj\Debug\net5.0\BudgetApp.Console.AssemblyInfoInputs.cache
+C:\Users\Vusi Mosime\source\repos\BudgetReportApp\BudgetApp\BudgetApp.Console\obj\Debug\net5.0\BudgetApp.Console.AssemblyInfo.cs
+C:\Users\Vusi Mosime\source\repos\BudgetReportApp\BudgetApp\BudgetApp.Console\obj\Debug\net5.0\BudgetApp.Console.csproj.CoreCompileInputs.cache
+C:\Users\Vusi Mosime\source\repos\BudgetReportApp\BudgetApp\BudgetApp.Console\obj\Debug\net5.0\BudgetApp.Console.csproj.CopyComplete
+C:\Users\Vusi Mosime\source\repos\BudgetReportApp\BudgetApp\BudgetApp.Console\obj\Debug\net5.0\BudgetApp.Console.dll
+C:\Users\Vusi Mosime\source\repos\BudgetReportApp\BudgetApp\BudgetApp.Console\obj\Debug\net5.0\refint\BudgetApp.Console.dll
+C:\Users\Vusi Mosime\source\repos\BudgetReportApp\BudgetApp\BudgetApp.Console\obj\Debug\net5.0\BudgetApp.Console.pdb
+C:\Users\Vusi Mosime\source\repos\BudgetReportApp\BudgetApp\BudgetApp.Console\obj\Debug\net5.0\BudgetApp.Console.genruntimeconfig.cache
+C:\Users\Vusi Mosime\source\repos\BudgetReportApp\BudgetApp\BudgetApp.Console\obj\Debug\net5.0\ref\BudgetApp.Console.dll
+C:\Users\vusim\source\repos\BudgetApp\BudgetApp.Console\bin\Debug\net5.0\BudgetApp.Console.exe
+C:\Users\vusim\source\repos\BudgetApp\BudgetApp.Console\bin\Debug\net5.0\BudgetApp.Console.deps.json
+C:\Users\vusim\source\repos\BudgetApp\BudgetApp.Console\bin\Debug\net5.0\BudgetApp.Console.runtimeconfig.json
+C:\Users\vusim\source\repos\BudgetApp\BudgetApp.Console\bin\Debug\net5.0\BudgetApp.Console.runtimeconfig.dev.json
+C:\Users\vusim\source\repos\BudgetApp\BudgetApp.Console\bin\Debug\net5.0\BudgetApp.Console.dll
+C:\Users\vusim\source\repos\BudgetApp\BudgetApp.Console\bin\Debug\net5.0\BudgetApp.Console.pdb
+C:\Users\vusim\source\repos\BudgetApp\BudgetApp.Console\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\vusim\source\repos\BudgetApp\BudgetApp.Console\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\vusim\source\repos\BudgetApp\BudgetApp.Console\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\vusim\source\repos\BudgetApp\BudgetApp.Console\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\vusim\source\repos\BudgetApp\BudgetApp.Console\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vusim\source\repos\BudgetApp\BudgetApp.Console\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vusim\source\repos\BudgetApp\BudgetApp.Console\bin\Debug\net5.0\SqlDataAccess.dll
+C:\Users\vusim\source\repos\BudgetApp\BudgetApp.Console\bin\Debug\net5.0\SqlDataAccess.pdb
+C:\Users\vusim\source\repos\BudgetApp\BudgetApp.Console\obj\Debug\net5.0\BudgetApp.Console.csproj.AssemblyReference.cache
+C:\Users\vusim\source\repos\BudgetApp\BudgetApp.Console\obj\Debug\net5.0\BudgetApp.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vusim\source\repos\BudgetApp\BudgetApp.Console\obj\Debug\net5.0\BudgetApp.Console.AssemblyInfoInputs.cache
+C:\Users\vusim\source\repos\BudgetApp\BudgetApp.Console\obj\Debug\net5.0\BudgetApp.Console.AssemblyInfo.cs
+C:\Users\vusim\source\repos\BudgetApp\BudgetApp.Console\obj\Debug\net5.0\BudgetApp.Console.csproj.CoreCompileInputs.cache
+C:\Users\vusim\source\repos\BudgetApp\BudgetApp.Console\obj\Debug\net5.0\BudgetApp.Console.csproj.CopyComplete
+C:\Users\vusim\source\repos\BudgetApp\BudgetApp.Console\obj\Debug\net5.0\BudgetApp.Console.dll
+C:\Users\vusim\source\repos\BudgetApp\BudgetApp.Console\obj\Debug\net5.0\refint\BudgetApp.Console.dll
+C:\Users\vusim\source\repos\BudgetApp\BudgetApp.Console\obj\Debug\net5.0\BudgetApp.Console.pdb
+C:\Users\vusim\source\repos\BudgetApp\BudgetApp.Console\obj\Debug\net5.0\BudgetApp.Console.genruntimeconfig.cache
+C:\Users\vusim\source\repos\BudgetApp\BudgetApp.Console\obj\Debug\net5.0\ref\BudgetApp.Console.dll
+E:\BudgetApp\BudgetApp.Console\bin\Debug\net5.0\BudgetApp.Console.exe
+E:\BudgetApp\BudgetApp.Console\bin\Debug\net5.0\BudgetApp.Console.deps.json
+E:\BudgetApp\BudgetApp.Console\bin\Debug\net5.0\BudgetApp.Console.runtimeconfig.json
+E:\BudgetApp\BudgetApp.Console\bin\Debug\net5.0\BudgetApp.Console.runtimeconfig.dev.json
+E:\BudgetApp\BudgetApp.Console\bin\Debug\net5.0\BudgetApp.Console.dll
+E:\BudgetApp\BudgetApp.Console\bin\Debug\net5.0\BudgetApp.Console.pdb
+E:\BudgetApp\BudgetApp.Console\bin\Debug\net5.0\System.Data.SqlClient.dll
+E:\BudgetApp\BudgetApp.Console\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+E:\BudgetApp\BudgetApp.Console\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+E:\BudgetApp\BudgetApp.Console\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+E:\BudgetApp\BudgetApp.Console\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\BudgetApp\BudgetApp.Console\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\BudgetApp\BudgetApp.Console\bin\Debug\net5.0\SqlDataAccess.dll
+E:\BudgetApp\BudgetApp.Console\bin\Debug\net5.0\SqlDataAccess.pdb
+E:\BudgetApp\BudgetApp.Console\obj\Debug\net5.0\BudgetApp.Console.csproj.AssemblyReference.cache
+E:\BudgetApp\BudgetApp.Console\obj\Debug\net5.0\BudgetApp.Console.GeneratedMSBuildEditorConfig.editorconfig
+E:\BudgetApp\BudgetApp.Console\obj\Debug\net5.0\BudgetApp.Console.AssemblyInfoInputs.cache
+E:\BudgetApp\BudgetApp.Console\obj\Debug\net5.0\BudgetApp.Console.AssemblyInfo.cs
+E:\BudgetApp\BudgetApp.Console\obj\Debug\net5.0\BudgetApp.Console.csproj.CoreCompileInputs.cache
+E:\BudgetApp\BudgetApp.Console\obj\Debug\net5.0\BudgetApp.Console.csproj.CopyComplete
+E:\BudgetApp\BudgetApp.Console\obj\Debug\net5.0\BudgetApp.Console.dll
+E:\BudgetApp\BudgetApp.Console\obj\Debug\net5.0\refint\BudgetApp.Console.dll
+E:\BudgetApp\BudgetApp.Console\obj\Debug\net5.0\BudgetApp.Console.pdb
+E:\BudgetApp\BudgetApp.Console\obj\Debug\net5.0\BudgetApp.Console.genruntimeconfig.cache
+E:\BudgetApp\BudgetApp.Console\obj\Debug\net5.0\ref\BudgetApp.Console.dll

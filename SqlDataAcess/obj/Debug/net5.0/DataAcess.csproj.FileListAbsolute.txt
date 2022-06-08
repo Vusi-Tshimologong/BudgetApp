@@ -1,0 +1,12 @@
+C:\Users\Vusi Mosime\source\repos\BudgetReportApp\BudgetApp\SqlDataAcess\bin\Debug\net5.0\DataAcess.deps.json
+C:\Users\Vusi Mosime\source\repos\BudgetReportApp\BudgetApp\SqlDataAcess\bin\Debug\net5.0\DataAcess.dll
+C:\Users\Vusi Mosime\source\repos\BudgetReportApp\BudgetApp\SqlDataAcess\bin\Debug\net5.0\DataAcess.pdb
+C:\Users\Vusi Mosime\source\repos\BudgetReportApp\BudgetApp\SqlDataAcess\obj\Debug\net5.0\DataAcess.csproj.AssemblyReference.cache
+C:\Users\Vusi Mosime\source\repos\BudgetReportApp\BudgetApp\SqlDataAcess\obj\Debug\net5.0\DataAcess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vusi Mosime\source\repos\BudgetReportApp\BudgetApp\SqlDataAcess\obj\Debug\net5.0\DataAcess.AssemblyInfoInputs.cache
+C:\Users\Vusi Mosime\source\repos\BudgetReportApp\BudgetApp\SqlDataAcess\obj\Debug\net5.0\DataAcess.AssemblyInfo.cs
+C:\Users\Vusi Mosime\source\repos\BudgetReportApp\BudgetApp\SqlDataAcess\obj\Debug\net5.0\DataAcess.csproj.CoreCompileInputs.cache
+C:\Users\Vusi Mosime\source\repos\BudgetReportApp\BudgetApp\SqlDataAcess\obj\Debug\net5.0\DataAcess.dll
+C:\Users\Vusi Mosime\source\repos\BudgetReportApp\BudgetApp\SqlDataAcess\obj\Debug\net5.0\refint\DataAcess.dll
+C:\Users\Vusi Mosime\source\repos\BudgetReportApp\BudgetApp\SqlDataAcess\obj\Debug\net5.0\DataAcess.pdb
+C:\Users\Vusi Mosime\source\repos\BudgetReportApp\BudgetApp\SqlDataAcess\obj\Debug\net5.0\ref\DataAcess.dll
