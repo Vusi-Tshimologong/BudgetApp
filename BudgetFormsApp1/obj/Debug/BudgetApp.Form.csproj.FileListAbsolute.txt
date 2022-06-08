@@ -1,6 +1,0 @@
-C:\Users\Vusi Mosime\source\repos\BudgetReportApp\BudgetApp\BudgetFormsApp1\obj\Debug\BudgetApp.Form.csproj.AssemblyReference.cache
-C:\Users\Vusi Mosime\source\repos\BudgetReportApp\BudgetApp\BudgetFormsApp1\obj\Debug\BudgetApp.Form.csproj.SuggestedBindingRedirects.cache
-C:\Users\Vusi Mosime\source\repos\BudgetReportApp\BudgetApp\BudgetFormsApp1\obj\Debug\BudgetFormsApp1.Form2.resources
-C:\Users\Vusi Mosime\source\repos\BudgetReportApp\BudgetApp\BudgetFormsApp1\obj\Debug\BudgetFormsApp1.Properties.Resources.resources
-C:\Users\Vusi Mosime\source\repos\BudgetReportApp\BudgetApp\BudgetFormsApp1\obj\Debug\BudgetApp.Form.csproj.GenerateResource.cache
-C:\Users\Vusi Mosime\source\repos\BudgetReportApp\BudgetApp\BudgetFormsApp1\obj\Debug\BudgetApp.Form.csproj.CoreCompileInputs.cache
